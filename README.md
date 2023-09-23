@@ -49,11 +49,16 @@ Welcome to our BudgetHotelApp [need a name at least] ! This web application is d
 
 ## Tech Stack
 
-- Front-End: [List Front-End Technologies]
-- Back-End: [List Back-End Technologies]
-- Database: [Database System]
+- Front-End: Bootstrap or Vuejs
+- Back-End: Laravel
+- Database: mysql
 - Payment Gateway: [Payment Gateway Service]
-- Hosting: [Hosting Platform]
+- Hosting: Hostinger/Github
+
+## Planning
+[ ] Get ideas from previous hotelier/website/figma
+[ ] Modified or just use available design and UI
+[ ] Setup Laravel in the pc.
 
 ## Installation
 
